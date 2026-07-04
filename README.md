@@ -6,3 +6,5 @@ An example git repository for class
 
 - Mr. Johnson
 - Prof. Johnson
+- surely not
+- Jace R
