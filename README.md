@@ -10,3 +10,5 @@ An example git repository for class
 - Je m'appelle Justin.
 - Mes cretens sont avec moi.
 - Prof. Johnson
+- surely not
+- Jace R
